@@ -21,6 +21,7 @@ IP Address:
 Network Settings:
 
 ![image](https://github.com/user-attachments/assets/5ff4c676-08ae-41bd-b449-0e44cd329f7e)
+
 IP Address:
 
 ![image](https://github.com/user-attachments/assets/b29b9698-e14c-4c87-9dc8-bd6007922fc0)
