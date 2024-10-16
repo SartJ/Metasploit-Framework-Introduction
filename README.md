@@ -1,5 +1,5 @@
 # Metasploit-Framework-Introduction
-We need to Virtual Machines for this experiment.
+We need two Virtual Machines for this experiment.
 
 ## Attacking Machine:
 ![image](https://github.com/user-attachments/assets/d2481ddc-ef86-4426-af92-c3b2ab785c88)
